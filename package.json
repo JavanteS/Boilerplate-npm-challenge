@@ -2,6 +2,7 @@
 	"author": "Javante",
 	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "cool", "freecodecamp", "nice" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
